@@ -1,2 +1,0 @@
-# Licencias
-github pages
